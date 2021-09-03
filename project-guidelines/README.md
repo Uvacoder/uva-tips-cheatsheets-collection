@@ -1,9 +1,4 @@
 
-[中文版](./README-zh.md)
- | [日本語版](./README-ja.md)
- | [한국어](./README-ko.md)
- | [Русский](./README-ru.md)
- | [Português](./README-pt-BR.md)
 
 [<img src="./images/elsewhen-logo.png" width="180" height="180">](https://www.elsewhen.com/)
 
