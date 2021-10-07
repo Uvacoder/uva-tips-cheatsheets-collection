@@ -1,4 +1,4 @@
-REACT JS
+# REACT JS tips and tricks
 
 #### Background Story
 
