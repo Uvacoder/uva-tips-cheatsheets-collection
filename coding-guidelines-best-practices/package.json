@@ -1,0 +1,41 @@
+{
+  "name": "@darekkay/best-practices",
+  "description": "A guide for building better applications",
+  "version": "1.0.0",
+  "author": "Darek Kay <hello@darekkay.com> (https://darekkay.com/)",
+  "bugs": {
+    "url": "https://github.com/darekkay/best-practices/issues"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "0.11.1",
+    "@darekkay/11ty": "1.2.4",
+    "@darekkay/styles": "2.0.0",
+    "highlight.js": "10.3.1",
+    "markdown-it": "12.0.2",
+    "markdown-it-anchor": "6.0.0",
+    "markdown-it-link-attributes": "3.0.0",
+    "markdown-it-replace-link": "1.1.0",
+    "npm-run-all": "4.1.5",
+    "rimraf": "3.0.2"
+  },
+  "devDependencies": {},
+  "homepage": "https://darekkay.com/best-practices/",
+  "keywords": [
+    "best practices",
+    "programming",
+    "software development",
+    "web development"
+  ],
+  "license": "Public Domain",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darekkay/best-practices.git"
+  },
+  "scripts": {
+    "build": "run-s clean build:eleventy",
+    "build:eleventy": "eleventy",
+    "clean": "rimraf dist/"
+  }
+}
