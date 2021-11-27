@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://pokeapi-graphiql.herokuapp.com/",
+    "info": {
+      "title": "PokeAPI",
+      "description": "Pokémon Data API",
+      "logo": {
+        "url": "http://img08.deviantart.net/20bd/i/2010/231/7/1/pokeball_template_by_poke_lab.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://pokeapi-graphiql.herokuapp.com/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://github.com/patrickshaughnessy/PokeAPI-GraphQL"
+      }
+    ]
+  },
+  {
+    "url": "http://graphql-swapi.parseapp.com/",
+    "info": {
+      "title": "SWAPI",
+      "description": "Star Wars API",
+      "logo": {
+        "url": "https://www.programmableweb.com/sites/default/files/styles/facebook_scale_height_200/public/TheStarWarsAPI.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://graphql-swapi.parseapp.com/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://github.com/graphql/swapi-graphql"
+      }
+    ]
+  },
+  {
+    "url": "https://spacex.land/",
+    "info": {
+      "title": "Spacex.Land",
+      "description": "A non official platform for SpaceX's data!",
+      "logo": {
+        "url": "https://spacex.land/assets/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.spacex.land/graphql/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://spacex.land/"
+      } 
+    ]
+},
+{
+    "url": "http://graphql-swapi.parseapp.com/",
+    "info": {
+      "title": "Spotify",
+      "description": "Spotify gives you instant access to millions of songs – from old favorites to the latest hits.",
+      "logo": {
+        "url": "https://www.programmableweb.com/sites/default/files/styles/facebook_scale_height_200/public/TheStarWarsAPI.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://spotify.thefrench.house/graphql-console/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/thefrenchhouse/spotify-graphql"
+      },
+      {
+        "description": "Examples",
+        "url": "https://github.com/thefrenchhouse/spotify-graphql-examples"
+      }
+    ]
+  }
+]
