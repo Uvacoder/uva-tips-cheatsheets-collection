@@ -1,0 +1,489 @@
+[
+  {
+    "url": "https://graphql.brandfolder.com/graphql",
+    "info": {
+      "title": "Brandfolder",
+      "description": "Digital asset management platform",
+      "logo": {
+        "url": "http://static1.squarespace.com/static/575b2a042b8dde1b3489f9df/t/579a4575e6f2e1648e660ef4/1476912636734/%3Fformat=1500w",
+        "backgroundColor": "#252c2f"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql.brandfolder.com/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://github.com/brandfolder/graphqlify"
+      }
+    ]
+  },
+  {
+    "url": "https://graphql.buildkite.com/v1",
+    "info": {
+      "title": "Buildkite",
+      "description": "Continuous integration and deployments",
+      "logo": {
+        "url": "https://avatars1.githubusercontent.com/oa/46194?v=3&u=b9d8fd94744e21ea26a7302cab5931d9cb25e897&s=800"
+      }
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "",
+        "type": "apiKey",
+        "prefix": "Bearer ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql.buildkite.com/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64#.7uhjusw1q"
+      }
+    ]
+  },
+  {
+    "url": "https://portal.ehri-project.eu/api/graphql",
+    "info": {
+      "title": "EHRI",
+      "description": "Holocaust-related archival materials",
+      "logo": {
+        "url": "https://www.ehri-project.eu/sites/all/themes/zenehri/images/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://portal.ehri-project.eu/api/graphql/ui"
+      },
+      {
+        "description": "Docs",
+        "url": "https://portal.ehri-project.eu/api/graphql"
+      }
+    ]
+  },
+  {
+    "url": "https://graphql.communitygraph.org/graphql/",
+    "info": {
+      "title": "GraphQL Community Graph",
+      "description": "This is an Graph Database full of activity of the GraphQL community, including Twitter, StackOverflow, GitHub, Meetups, Slack."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://graphql.communitygraph.org/graphiql/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/neo4j-graphql/graphql-community"
+      }
+    ]
+  },
+  {
+    "url": "https://api.graphql-europe.org/",
+    "info": {
+      "title": "GraphQL Europe",
+      "description": "Europe’s first GraphQL conference",
+      "logo": {
+        "url": "https://graphql-europe.org/assets/image/logo.svg"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.graphql-europe.org/"
+      }
+    ]
+  },
+  {
+    "url": "http://gdom.graphene-python.org/graphql",
+    "info": {
+      "title": "Gdom",
+      "description": "DOM Traversing and Scraping using GraphQL"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://gdom.graphene-python.org/graphql"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/syrusakbary/gdom"
+      }
+    ]
+  },
+  {
+    "url": "https://api.github.com/graphql",
+    "headers": {
+      "User-Agent": "Agent"
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "",
+        "type": "apiKey",
+        "prefix": "Bearer ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "info": {
+      "title": "GitHub",
+      "description": "Web-based Git repository hosting service",
+      "logo": {
+        "url": "https://api.apis.guru/v2/cache/logo/http_assets-cdn.github.com_images_modules_logos_page_GitHub-Mark.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://developer.github.com/v4/explorer/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://docs.github.com/v4/"
+      }
+    ]
+  },
+  {
+    "url": "https://hivdb.stanford.edu/graphql",
+    "info": {
+      "title": "HIVDB",
+      "description": "A curated database to represent, store and analyze HIV drug resistance data"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://hivdb.stanford.edu/page/graphiql/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://hivdb.stanford.edu/page/webservice/"
+      }
+    ]
+  },
+  {
+    "url": "https://api.hollowverse.com/graphql",
+    "info": {
+      "title": "Hollowverse",
+      "description": "The religions and political views of the influentials."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.hollowverse.com/playground"
+      },
+      {
+        "description": "Docs",
+        "url": "https://github.com/hollowverse/hollowverse/wiki/API-Development"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/hollowverse/api"
+      }
+    ]
+  },
+  {
+    "url": "https://api.digitransit.fi/routing/v1/routers/hsl/index/graphql",
+    "info": {
+      "title": "Digitransit HSL",
+      "description": "Transit routes and realtime schedules from Helsinki Regional Transport Authority, Finland",
+      "logo": {
+        "url": "http://dev.hsl.fi/logo.png",
+        "backgroundColor": "#007ac9"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://dev.hsl.fi/graphql/console/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://digitransit.fi/en/developers/services-and-apis/1-routing-api/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/HSLdevcom/OpenTripPlanner"
+      }
+    ]
+  },
+  {
+    "url": "https://api.melody.sh/graphql",
+    "info": {
+      "title": "melodyRepo",
+      "description": "Fast and reliable dependency manager for Go"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://melody.sh/play/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://melody.sh/docs/api"
+      }
+    ]
+  },
+  {
+    "url": "https://api.react-finland.fi/graphql",
+    "info": {
+      "title": "React Finland",
+      "description": "React Finland API is built with conferences and meetups in mind"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.react-finland.fi/graphql"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/ReactFinland/graphql-api"
+      }
+    ]
+  },
+  {
+    "url": "http://graphql-demo.azurewebsites.net/",
+    "info": {
+      "title": "Microsoft Graph (DEMO)",
+      "description": "Connect to the data that drives productivity – mail, calendar, contacts, documents, directory, devices, and more."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql-demo.azurewebsites.net/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/microsoftgraph/graphql-demo"
+      }
+    ]
+  },
+  {
+    "url": "https://graphql.myshopify.com/api/graphql.json",
+    "headers": {
+      "Content-Type": "application/graphql"
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "Storefront Access token",
+        "type": "apiKey",
+        "name": "X-Shopify-Storefront-Access-Token",
+        "in": "header"
+      }
+    ],
+    "info": {
+      "title": "Shopify Storefront",
+      "description": "The Storefront API gives you full creative control to build customized purchasing experiences for your customers."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://help.shopify.com/api/storefront-api/graphql-explorer"
+      },
+      {
+        "description": "Docs",
+        "url": "https://help.shopify.com/api/storefront-api"
+      },
+      {
+        "description": "Examples",
+        "url": "https://github.com/Shopify/storefront-api-examples"
+      }
+    ]
+  },
+  {
+    "url": "https://api.yelp.com/v3/graphql",
+    "info": {
+      "title": "Yelp",
+      "description": "User Reviews and Recommendations of Top Restaurants, Shopping, Nightlife, Entertainment, Services and More",
+      "logo": {
+        "url": "https://s3-media2.fl.yelpcdn.com/assets/srv0/styleguide/1ea40efd80f5/assets/img/brand_guidelines/yelp_fullcolor.png"
+      }
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "Same as for regular API",
+        "type": "apiKey",
+        "prefix": "Bearer ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://www.yelp.com/developers/graphiql"
+      },
+      {
+        "description": "Docs",
+        "url": "https://www.yelp.com/developers/graphql/guides/intro"
+      }
+    ]
+  },
+  {
+    "url": "http://api.catalysis-hub.org/graphql",
+    "info": {
+      "title": "Catalysis-Hub.Org",
+      "description": "http://api.catalysis-hub.org/graphql",
+      "logo": {
+        "url": "https://www.catalysis-hub.org/static/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://api.catalysis-hub.org/graphql"
+      },
+      {
+        "description": "Docs",
+        "url": "http://docs.catalysis-hub.org/en/latest/tutorials/index.html#graphql"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/SUNCAT-Center/CatalysisHubBackend"
+      }
+    ]
+  },
+  {
+    "url": "https://countries.trevorblades.com",
+    "info": {
+      "title": "Countries",
+      "description": "Information about countries, continents, and languages"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphQL Playground",
+        "url": "https://countries.trevorblades.com"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/trevorblades/countries"
+      }
+    ]
+  },
+  {
+    "url": "http://api.deutschebahn.com/1bahnql/",
+    "info": {
+      "title": "Deutsche Bahn",
+      "description": "Infrastructure Data, like realtime facility status, stations, timetables and more",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/dbsystel/1BahnQL/develop/logo.svg"
+      }
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "Subscripe to 1BahnQL in the developer portal",
+        "type": "apiKey",
+        "prefix": "Bearer ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "externalDocs": [
+      {
+        "description": "Repo",
+        "url": "https://github.com/dbsystel/1BahnQL"
+      },
+      {
+        "description": "Try",
+        "url": "https://developer.deutschebahn.com/free1bahnql/graphql"
+      }
+    ]
+  },
+  {
+    "url": "https://api.pipefy.com/graphql",
+    "info": {
+      "title": "Pipefy GraphQL API",
+      "description": "The operations excellence platform."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://app.pipefy.com/graphiql"
+      },
+      {
+        "description": "Docs",
+        "url": "https://developers.pipefy.com"
+      }
+    ]
+  },
+  {
+    "url": "https://api.everbase.co/graphql",
+    "info": {
+      "title": "Everbase",
+      "description": "Countries, cities, exchange rates, geolocation and a lot more."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://www.everbase.co/editor"
+      },
+      {
+        "description": "Docs",
+        "url": "https://www.everbase.co/docs"
+      }
+    ]
+  },
+  {
+    "url": "https://swop.cx/",
+    "security": [
+      {
+        "title": "API Key",
+        "description": "",
+        "type": "apiKey",
+        "prefix": "ApiKey ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "info": {
+      "title": "SWOP",
+      "description": "GraphQL and REST foreign exchange rate API",
+      "logo": {
+        "url": "https://swop.cx/assets/images/logos/swop-logo-dollar-dark.svg"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphQL Playground",
+        "url": "https://swop.cx/account/dashboard/playground"
+      },
+      {
+        "description": "Docs",
+        "url": "https://swop.cx/documentation"
+      }
+    ]
+  },
+  {
+    "url": "https://graphql.bitquery.io",
+    "info": {
+      "title": "Bitquery",
+      "description": "Blockchain On-chain Analytical API",
+      "logo": {
+        "url": "https://bitquery.io/wp-content/uploads/thegem-logos/logo_cbdd6c348bcf0f1e96dc8b4a8c401574_1x.png",
+        "backgroundColor": "#12263f"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql.bitquery.io/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://bitquery.io/blog/working-with-blockchain-data"
+      }
+    ]
+  }
+]
