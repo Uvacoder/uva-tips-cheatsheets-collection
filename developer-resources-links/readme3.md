@@ -1,3 +1,44 @@
+## IMAGES
+
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Burst](https://burst.shopify.com/)
+- [ISO Republic](https://isorepublic.com/)
+- [Pixabay](https://pixabay.com/)
+- [StockSnap.io](https://stocksnap.io/)
+- [Photopea](https://www.photopea.com/)
+- [Online Image Compressor](https://imagecompressor.com/)
+- [Bulk Resize Photos](https://bulkresizephotos.com/)
+- [Background Remover](https://www.remove.bg/)
+- [Favicon Generator](https://favicon-generator.org/)
+- [BGJar](https://bgjar.com/)
+
+## Designs
+
+- [Pinterest](https://www.pinterest.com/)
+- [Dribble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+- [Ui Design Daily](https://uidesigndaily.com/)
+- [Uxcel](https://uxcel.com/)
+
+## READINGS
+
+- [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [HackerRank 2020 Developer Skills Report](https://research.hackerrank.com/developer-skills/2020)
+- [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)
+- [HTML & CSS](http://www.htmlandcssbook.com/)
+- [Refactoring UI](https://refactoringui.com/book/)
+- [airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [JavaScript & jQuery](http://javascriptbook.com/)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
+- [Advance HTML and CSS](https://learn.shayhowe.com/advanced-html-css/)
+- [HTML CSS & JS](https://www.quackit.com/)
+
+## BLOGGING
+
 - [Hashnode](https://hashnode.com/)
 - [Medium](https://medium.com/)
 - [Dev.to](https://dev.to/)
