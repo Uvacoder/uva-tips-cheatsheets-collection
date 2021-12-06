@@ -1,159 +1,94 @@
-# Resources For Web Developers
+# Web Development Resources💻
 
-I have been collecting many links throughout months and I wish to share some of them with you. Don't hesitate to contribute more useful resource 😉
+## Hello 👋
+ This repository was made initially as a resource guide for students participating in the Kode with Klossy Web Development Camps for Summer 2020, however, it is also now a crowdsource place full of useful sources to learn about web development along other with other useful tools - such as navigating Git and using Github - as you navigate your time as a developer. 
+ 
+ I will be continually updating this repository throughout time, however, feel free to fork the repo or make contributions here!
 
----
+ ### Best Sites for Learning ANYTHING Web Development Related
+ * [W3Schools](https://www.w3schools.com/)
+ * [FreeCodeCamp](https://www.freecodecamp.org/)
+ * [Codecademy](https://www.codecademy.com/catalog/subject/web-development)
+ * [Django Tutorial](https://tutorial.djangogirls.org/en/)
+ * [ReactJS](https://reactjs.org/tutorial/tutorial.html)
+    * [Setting Up React](https://www.codecademy.com/articles/how-to-create-a-react-app)
+    * [More React](https://reactjs.org/docs/create-a-new-react-app.html)
+    * [Practicing React.js alongside s'more resources](https://github.com/hack4impact-uiuc/react-exercise)
+    * [Mini Web Dev Bootcamp](https://www.notion.so/Curriculum-ca431096426b4fd1968ac49121ff2fdb)
+ * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn)
+ * [LearnJS](https://github.com/CodeNerve/LearnJavaScript)
+ * [Technotica Curriculum](https://github.com/Techtonica/curriculum)
+ * [Harvard CS50 Web Programmin](https://cs50.harvard.edu/web/2020/)
 
-## HTML
+ ### Designs
+ * [Google Fonts](https://fonts.google.com/)
+ * [HTML ColorCode](https://htmlcolorcodes.com/)
+ * [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
+ * [unDraw](https://undraw.co/)
+ * [emojipedia](https://emojipedia.org/)
+ * [Dribble](https://dribbble.com/?fbclid=IwAR3c_YUBr-wLjHWvIQcARBeM7UG2ZYd02_I8U4zy2oUSUWkTtFIivoxqHxA)
+ * [CSS Animated & Gradient Background](https://uigradients.com/#SandtoBlue)
+ * [Bootstrap](https://getbootstrap.com/)
 
-- [W3C Markup Validator](https://validator.w3.org/)
-- [Meta Tags](https://metatags.io/)
-- [HTML.COM](https://html.com/)
+ ### Templates
+ * [HTML5UP](https://html5up.net/)
+ * [JSON Resume](https://jsonresume.org/getting-started/)
+ * [urspace](https://urspace.io/) customized templates
+ * [Terminal-like Portfolio](https://github.com/CodeNerve/CodeNerve.github.io)
+ * [Some more templates](https://html.com/resources/free-html-templates/)
+ * [w3 Schools Bootstrap Theme](https://www.w3schools.com/bootstrap4/bootstrap_templates.asp) Bootstrap is a front-end framework that allows your site to be more responsive across all devices!
 
-## CSS
+ ### 🛠️ Tools to use for prototyping apps or websites
+ * [Proto.io](https://proto.io/) - keep in mind you only have a 14 day free trial
+ * [Figma](https://www.figma.com/blog/)
+ * [Bubble.io](https://bubble.io/) Easy and free tool to create mockups
+ * [Check this Medium blog out](https://medium.com/@denisz.design/the-9-best-go-to-prototyping-tools-for-designers-in-2019-296b341a51a2)
 
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-- [Animate.css](https://animate.style/)
-- [animista](http://animista.net/)
-- [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/)
-- [SpinKit](https://tobiasahlin.com/spinkit/)
-- [CSS Minifier](https://cssminifier.com/)
-- [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
-- [Neumorphism.io](https://neumorphism.io/)
-- [Get waves](https://getwaves.io/)
+ ### Github
+* [Github Guides](https://guides.github.com/activities/hello-world/)
+* [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
+* [More GitHub Courses](https://lab.github.com/)
+* [Practicing How to Use Git](https://github.com/benthayer/git-gud)
+* [Gitbook](https://www.gitbook.com/)
+* [Importance of Having a good READ.ME](https://github.com/noffle/art-of-readme?fbclid=IwAR3sFPA8KV71i2YCESls4fCqIxvTzbB0eiJGEAiDMUgs1rfZ0Rv1YN0KsOY) - very useful to include for your final project!
+* [Why you need a clear README if you want a "coding" job](https://www.reddit.com/r/cscareerquestions/comments/h17blk/always_write_a_clear_readme_if_you_want_to_find_a/) 
+* [Github Student Developer Pack](https://education.github.com/pack)
+* [Showcase Portfolio through Github Pages](https://github.dev/)
+* [FORK this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
-## JAVASCRIPT
+ ### 👩‍💻 👨‍💻 Free Online IDEs to help you get started
+* [Repl.it](https://repl.it/)
+* [Code Pen](https://codepen.io/)
+* [Glitch](https://glitch.com/)
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [JavaScript 30](https://javascript30.com/)
-- [Codewars](https://www.codewars.com/)
-- [ESLint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Particles.js](https://vincentgarreau.com/particles.js/)
-- [ES6 Basic Features](https://github.com/lukehoban/es6features)
-- [Javascript Info](https://javascript.info/)
-- [tsParticles](https://particles.matteobruni.it/)
+ ### EXTENSION: Building Your Own KWK Portfolio!
+ Throughout the duration of the web development camp, you will be building a lot of very cool projects so why not show them off? A porfolio would be a great way to showcase all the projects you've done to show off to your friends, family, recruiters, etc.
 
-## ICONS
+See this [tutorial](https://medium.com/techtogether/how-to-make-your-first-portfolio-hosted-on-github-1e5940853fcc) I wrote on how to host your website through Github pages
 
-- [Font Awesome](https://fontawesome.com/)
-- [Feather](https://feathericons.com/)
-- [Fontisto](https://www.fontisto.com/)
-- [Ionicons](https://ionicons.com/)
-- [Heroicons](https://heroicons.dev/)
-- [Simple Icons](https://simpleicons.org/)
-- [Material Design Icons](https://material.io/resources/icons/)
-- [Icons8](https://icons8.com/)
-- [IconsScout](https://iconscout.com/)
+Here is another [resource](https://github.dev/) to help you build a portfolio to showcase your projects! If you are a student and have a school email, you can register for [Github Pro](https://education.github.com/pack) that gives you free tools to use like a .me domain and other resources
 
-## COLORS
+### ADDITIONAL RESOURCES
+* [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
+* [Impactful](https://weareimpactful.org/?fbclid=IwAR1w5zp9XhK1jcCj0DVCttMCtOMOZt7AAQaf6x3nZJvBU76MuwN2OROM7a4#home)
+* [Adding Google Analytics to Website](https://www.pair.com/support/kb/how-to-google-analytics-to-an-html-website/)
+* [How to make a Chrome Extension](https://developer.chrome.com/extensions/getstarted) 
+* [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
+* [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
+* [Developer Roadmaps](https://roadmap.sh/guides)
+* [Coding from Home Resources from BBG Spreadsheet](https://docs.google.com/spreadsheets/d/1UZ4cSyopw7PkWuHm6Y5kL8MGpYULBavTdAEwz0ibHEU/edit?pli=1#gid=991593200)
 
-- [Material Design Colors](https://www.materialui.co/colors)
-- [Flat UI Colors](https://flatuicolors.com/)
-- [Color Hunt](https://colorhunt.co/)
-- [Color Space](https://mycolor.space/)
-- [Coolors](https://coolors.co/)
-- [uiGradients](http://www.uigradients.com/)
-- [ImageHive](https://www.imagehive.co)
+### 📰 BLOGS TO CHECK OUT 
+* [freeCodeCamp](https://www.freecodecamp.org/news/)
+* [CodePath](https://blog.codepath.org/)
+* [Tech Together](https://medium.com/techtogether)
+* [Better Programming](https://medium.com/better-programming)
 
-## ILLUSTRATIONS
-
-- [Undraw](https://undraw.co/illustrations)
-- [manypixels](https://gallery.manypixels.co/)
-- [IRA Design](https://iradesign.io/gallery/illustrations)
-- [Free Illustrations by Lukasz Adam](https://lukaszadam.com/illustrations)
-- [Blobmaker](https://www.blobmaker.app/)
-- [Get Waves](https://getwaves.io/)
-- [Colors and Fonts](https://www.colorsandfonts.com/)
-- [BADA55](http://bada55.io/)
-- [Gradient Background Colors](https://www.eggradients.com/)
-- [Grabient](https://cssgradient.io/gradient-backgrounds/)
-- [Black Illustration](https://www.blackillustrations.com/)
-
-## IMAGES
-
-- [Unsplash](https://unsplash.com/)
-- [Pexels](https://www.pexels.com/)
-- [Burst](https://burst.shopify.com/)
-- [ISO Republic](https://isorepublic.com/)
-- [Pixabay](https://pixabay.com/)
-- [StockSnap.io](https://stocksnap.io/)
-- [Photopea](https://www.photopea.com/)
-- [Online Image Compressor](https://imagecompressor.com/)
-- [Bulk Resize Photos](https://bulkresizephotos.com/)
-- [Background Remover](https://www.remove.bg/)
-- [Favicon Generator](https://favicon-generator.org/)
-- [BGJar](https://bgjar.com/)
-
-## Designs
-
-- [Pinterest](https://www.pinterest.com/)
-- [Dribble](https://dribbble.com/)
-- [Behance](https://www.behance.net/)
-- [Ui Design Daily](https://uidesigndaily.com/)
-- [Uxcel](https://uxcel.com/)
-
-## READINGS
-
-- [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
-- [HackerRank 2020 Developer Skills Report](https://research.hackerrank.com/developer-skills/2020)
-- [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)
-- [HTML & CSS](http://www.htmlandcssbook.com/)
-- [Refactoring UI](https://refactoringui.com/book/)
-- [airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-- [JavaScript & jQuery](http://javascriptbook.com/)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
-- [Advance HTML and CSS](https://learn.shayhowe.com/advanced-html-css/)
-- [HTML CSS & JS](https://www.quackit.com/)
-
-## BLOGGING
-
-- [Hashnode](https://hashnode.com/)
-- [Medium](https://medium.com/)
-- [Dev.to](https://dev.to/)
-
-## ACCESSIBILITY
-
-- [NV Access](https://www.nvaccess.org/)
-- [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn)
-- [axe Chrome Extension](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
-
-## DEPLOYMENT
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
-- [Surge](https://surge.sh/)
-- [Begin](https://begin.com/)
-- [Heroku](https://www.heroku.com/)
-- [000WebHost ](https://www.000webhost.com/)
-- [Heliohost](https://www.heliohost.org/)
-- [InfinityFree](https://infinityfree.net/)
-- [CommonsHost](https://commons.host/)
-- [PonyICU](https://pony.icu/)
-- [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/)
-- [Firebase](https://firebase.google.com/)
+### ✅ CHALLENGES
+* [7 Days, 7 Websites](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
+* [#100DaysOfCode](https://www.100daysofcode.com/)
+* [Contributing to Open Source Projects](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+* [List of Hackathons](https://mlh.io/seasons/na-2020/events)
+* [List of High School Hackathons](https://hackathons.hackclub.com/)
 
 
-## BROWSER EXTENSIONS (Chrome)
-- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
-- [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka)
-- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
-- [f19N Obtrusive Live Test](https://chrome.google.com/webstore/detail/franz-enzenhofer-seo-live/jbnaibigcohjfefpfocphcjeliohhold)
-- [SVG-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg?ref=producthunt)
-
-## OTHERS
-
-- [web.dev](https://web.dev/measure/)
-- [Shape Divider](https://www.shapedivider.app/)
-- [GTmetrix](https://gtmetrix.com/)
-- [Can I Use](https://caniuse.com/)
-- [Carbon](https://carbon.now.sh/)
-- [Wappalyzer](https://www.wappalyzser.com/)
-- [Readme](https://readme.com/)
-- [RegExr](https://regexr.com/)
-- [JSON formatter](https://jsonformatter.org/)
-- [Codepen Online Platform](https://codepen.io/)
