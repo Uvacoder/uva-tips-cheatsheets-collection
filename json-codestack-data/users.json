@@ -1,0 +1,1059 @@
+[
+  {
+    "username": "telmo",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "Sass",
+      "styled-components",
+      "JavaScript",
+      "React",
+      "Rails",
+      "Node.js",
+      "GraphQL",
+      "MySQL",
+      "PostgreSQL",
+      "Next.js",
+      "Zeit",
+      "Gatsby"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Sublime Text",
+      "Apple"
+    ]
+  },
+  {
+    "username": "Tomzybright",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Angular",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "anakagungcorp",
+    "stack": [
+      "JavaScript",
+      "Markdown"
+    ]
+  },
+  {
+  "username": "theavidcoder",
+  "stack": [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "JavaScript",
+    "Zeit",
+    "Netlify",
+    "C",
+    "Python",
+    "MySQL"
+     ]
+  },
+  {
+    "username": "Jkkr1996",
+    "stack": [
+      "React",
+      "AWS API Gateway",
+      "AWS Lambda",
+      "AWS DynamoDB"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "AWS Account"
+    ]
+  },
+  {
+    "username": "radnerus93",
+    "stack": [
+      "Javascript",
+      "Angular",
+      "React",
+      "Node.js",
+      "React Native",
+      "Java",
+      "Python",
+      "Postgres"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Mac"
+    ]
+  },
+  {
+    "username": "manishpamnani12",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Angular",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "OO_Java",
+    "stack": [
+      "Flutter",
+      "Laravel"
+    ]
+  },
+  {
+    "username": "ajaykarwal",
+    "stack": [
+      "HTML5",
+      "Sass",
+      "JavaScript",
+      "React",
+      "Gatsby",
+      "Jekyll"
+    ],
+    "setup": [
+      "Apple"
+    ]
+  },
+  {
+    "username": "Ramyatrouny",
+    "stack": [
+      "React",
+      "Angular",
+      "MySQL",
+      "Express",
+      "Sails.js",
+      "ArangoDB",
+      "Redis",
+      "PostgreSQL",
+      "MongoDB",
+      "JavaScript",
+      "Android"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Windows",
+      "Linux"
+    ]
+  },
+  {
+    "username": "KhareApurv",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "dephraiim",
+    "stack": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Vue.js",
+      "TypeScript",
+      "Go",
+      "Python"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Linux",
+      "Windows"
+    ]
+  },
+  {
+    "username": "_ibrahimturan",
+    "stack": [
+      "Vue.js",
+      "Vuetify",
+      "MySQL",
+      "Laravel"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Linux",
+      "NGINX",
+      "GNU Bash"
+    ]
+  },
+  {
+    "username": "Lonnyrichard",
+    "stack": [
+      "Vue.js",
+      "Laravel",
+      "PHP"
+    ]
+  },
+  {
+    "username": "Code_Quinn",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "username": "originalzedders",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Eleventy",
+      "Node.js",
+      "Express",
+      "MongoDB"
+      ],
+    "setup": [
+      "Visual Studio Code",
+      "Brave",
+      "Google Chrome",
+      "Windows",
+      "Android"
+      ]
+  },
+  {
+    "username": "shu8up",
+    "stack": [
+      "Node.js",
+      "Google Cloud",
+      "Redis",
+      "Express",
+      "React",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "username": "pikarestiv",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "Bjoysijo",
+    "stack": [
+      "Rails"
+    ]
+  },
+  {
+    "username": "savan_nahar68",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js",
+      "GraphQL"
+    ]
+  },
+  {
+    "username": "NaveenS16",
+    "stack": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "AWS Amplify"
+    ]
+  },
+  {
+    "username": "Pujak44",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Angular",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "xiCO2k",
+    "stack": [
+      "React",
+      "Expo",
+      "PHP",
+      "MySQL",
+      "Next.js"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Sublime Text",
+      "Apple"
+    ]
+  },
+  {
+    "username": "LondhePratheek",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Angular",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "SalafiSher",
+    "stack": [
+      "JavaScript"
+    ]
+  },
+  {
+    "username": "RiadSaidur",
+    "stack": [
+      "Vue.js",
+      "React",
+      "Node.js",
+      "Django",
+      "Firebase"
+    ]
+  },
+  {
+    "username": "Pankaj_sharma43",
+    "stack": [
+      "MySQL",
+      "Express",
+      "React",
+      "Socket.io",
+      "Node.js",
+      "PHP"
+    ]
+  },
+  {
+    "username": "DRFR0ST",
+    "stack": [
+      "TypeScript",
+      "React",
+      "React Native",
+      "Flutter",
+      "Node.js"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Ubuntu"
+    ]
+  },
+  {
+    "username": "ChathulaC",
+    "stack": [
+      "Node.js",
+      "React",
+      "Vue.js",
+      "Docker",
+      "Kubernetes",
+      "Go",
+      "Serverless"
+    ]
+  },
+  {
+    "username": "RickyDoesCode",
+    "stack": [
+      "MongoDB",
+      "Mongoose",
+      "PostgreSQL",
+      "Sequelize",
+      "Vue.js",
+      "React",
+      "Node.js",
+      "Serverless",
+      "Redis",
+      "Flutter"
+    ]
+  },
+  {
+    "username": "Bonvic7",
+    "stack": [
+      "Express",
+      "PostgreSQL",
+      "TypeScript",
+      "GraphQL",
+      "React"
+    ]
+  },
+  {
+    "username": "oliverdvorski",
+    "stack": [
+      "Firebase",
+      "Vue.js"
+    ]
+  },
+  {
+    "username": "jesulayo_ajayi",
+    "stack": [
+      "Xamarin"
+    ]
+  },
+  {
+    "username": "kodeCheff",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "9OUNDS",
+    "stack": [
+      "PHP",
+      "MySQL",
+      "Node.js",
+      ".NET"
+    ]
+  },
+  {
+    "username": "EwertonAzeved_",
+    "stack": [
+      "Node.js",
+      "Microsoft Azure",
+      "MongoDB",
+      "Docker"
+    ]
+  },
+  {
+    "username": "Sudo_overflow",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "Firebase",
+      "MySQL",
+      "MongoDB"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Apple"
+    ]
+  },
+  {
+    "username": "__aaqib",
+    "stack": [
+      "React",
+      "Python"
+    ]
+  },
+  {
+    "username": "Dimitri41378593",
+    "stack": [
+      "React",
+      "Vue.js",
+      "TypeScript",
+      "GraphQL",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "username": "great_classyk",
+    "stack": [
+      ".NET",
+      "Flutter",
+      "Angular"
+    ]
+  },
+  {
+    "username": "ClaySa3d",
+    "stack": [
+      "Laravel",
+      "Vue.js"
+    ]
+  },
+  {
+    "username": "garrickcheung",
+    "stack": [
+      "Ember.js"
+    ]
+  },
+  {
+    "username": "Shivuram2",
+    "stack": [
+      "JavaScript",
+      "Ember.js"
+    ]
+  },
+  {
+    "username": "he1nemann_m",
+    "stack": [
+      "Java",
+      "Spring",
+      "PHP",
+      "Angular",
+      "Vue.js",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "username": "_lawrencelucky",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "madisonharadine",
+    "stack": [
+      "React",
+      "GraphQL",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "username": "Kaybarax",
+    "stack": [
+      "TypeScript",
+      "React",
+      "Amazon AWS",
+      "Scala",
+      "Python",
+      "Kotlin",
+      "C++"
+    ]
+  },
+  {
+    "username": "Naxxos84",
+    "stack": [
+      "TypeScript",
+      "Javascript",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Express",
+      "GraphQL",
+      "Strapi",
+      "Java"
+    ],
+    "setup": [
+      "Windows",
+      "Mozilla Firefox",
+      "Visual Studio Code"
+    ]
+  },
+  {
+    "username": "Rupeshk96337312",
+    "stack": [
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "username": "k3rn3lhack3r",
+    "stack": [
+      "C++"
+    ],
+    "setup": [
+      "Linux"
+    ]
+  },
+  {
+    "username": "Melvin_manni",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "useit015",
+    "stack": [
+      "React"
+    ]
+  },
+  {
+    "username": "BrooksForsyth",
+    "stack": [
+      "Ionic",
+      "Angular",
+      "Nest"
+    ]
+  },
+  {
+    "username": "m_wasif_",
+    "stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+  "username": "rolandjlevy",
+    "stack": [
+      "JavaScript",
+      "Vue.js",
+      "React",
+      "Node.js",
+      "Express",
+      "MySQL"
+    ]
+  },
+  {
+    "username": "rishpein15",
+    "stack": [
+      "MongoDB",
+      "Angular",
+      "Express",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "Kaif76200535",
+    "stack": [
+      "Python"
+    ]
+  },
+  {
+    "username": "LordeRebel",
+    "stack": [
+      "Apache",
+      "MySQL",
+      "PHP"
+    ],
+    "setup": [
+      "Linux"
+    ]
+  },
+  {
+    "username": "BelloHadi3",
+    "stack": [
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "_marcba",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Vue.js",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "eva_skillz",
+    "stack": [
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "Von_VieStick",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "thealiilman",
+    "stack": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Redux",
+      "GraphQL",
+      "Ruby",
+      "Rails",
+      "HTML5",
+      "CSS3",
+      "Sass"
+    ],
+    "setup": [
+      "Google Chrome",
+      "DuckDuckGo",
+      "Apple",
+      "Windows"
+    ]
+  },
+  {
+    "username": "whytecode",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Vue.js",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "BraydonCoyer",
+    "stack": [
+      "Spring",
+      "Angular"
+    ]
+  },
+  {
+    "username": "simoncaule",
+    "stack": [
+      "PHP",
+      "Symfony",
+      "Nuxt.js",
+      "MongoDB",
+      "Redis",
+      "MySQL",
+      "Elasticsearch",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "username": "callam_woolgar",
+    "stack": [
+      "JavaScript",
+      "Java"
+    ]
+  },
+  {
+    "username": "ramigsDev",
+    "stack": [
+      "JavaScript",
+      "Node.js",
+      "Vue.js",
+      "Nuxt.js"
+    ]
+  },
+  {
+    "username": "seyifunmitanjs",
+    "stack": [
+      "MongoDB",
+      "MySQL",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "olanetsoft",
+    "stack": [
+      "Node.js",
+      ".NET"
+
+    ]
+  },
+  {
+    "username": "st_iakov",
+    "stack": [
+      "Clojure",
+      "React"
+    ]
+  },
+  {
+    "username": "tundek79",
+    "stack": [
+      "Laravel",
+      "Vue.js"
+    ]
+  },
+  {
+    "username": "DavidOjedaL",
+    "stack": [
+      "Groovy",
+      "Grails",
+      "Amazon AWS",
+      "MySQL"
+    ]
+  },
+  {
+    "username": "PsalmNat",
+    "stack": [
+      "Laravel",
+      "React",
+      "Kubernetes",
+      "Vue.js"
+    ]
+  },
+  {
+    "username": "codenakama",
+    "stack": [
+      "Go",
+      "gRPC",
+      "React",
+      "GraphQL"
+    ]
+  },
+  {
+    "username": "judicael_andria",
+    "stack": [
+      "Gatsby",
+      "React",
+      "GraphQL",
+      "Node.js",
+      "styled-components",
+      "Tailwind CSS",
+      "MongoDB"
+    ]
+  },
+  {
+    "username": "MechEngSanchez",
+    "stack": [
+      "PostgreSQL",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "ibrahimshehuib4",
+    "stack": [
+      "Flutter",
+      "Go",
+      "Django"
+    ]
+  },
+  {
+    "username": "brand1saunders",
+    "stack": [
+      "React Native",
+      "Laravel",
+      "Kubernetes",
+      "Terraform",
+      "Microsoft Azure"
+    ]
+  },
+  {
+    "username": "MeqdadTech",
+    "stack": [
+      "Python",
+      "TensorFlow",
+      "React"
+    ]
+  },
+  {
+    "username": "vijayhardaha",
+    "stack": [
+      "PHP",
+      "jQuery",
+      "WordPress",
+      "MySQL"
+    ],
+    "setup": [
+      "Brave",
+      "Visual Studio Code",
+      "Windows",
+      "XAMPP",
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ]
+  },
+  {
+    "username": "qudolucas",
+    "stack": [
+      "Svelte",
+      "Apache Cordova",
+      "Zeit"
+    ]
+  },
+  {
+    "username": "tombozwell",
+    "stack": [
+      "React",
+      "React Native",
+      "Gatsby",
+      "Hasura",
+      "Firebase",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "username": "crstnmac",
+    "stack": [
+      "Vue.js",
+      "Django",
+      "Tailwind CSS",
+      "Vuetify",
+      "Gridsome",
+      "MongoDB",
+      "Celery",
+      "Python",
+      "JavaScript",
+      "Node.js"
+    ],
+    "setup":[
+      "Mozilla Firefox",
+      "Visual Studio Code",
+      "Google Chrome",
+      "Linux Mint",
+      "Dell",
+      "GNU"
+    ]
+  },
+  {
+  "username": "codewithghazi",
+  "stack": [
+    "React",
+    "React Native",
+    "Node.js",
+    "Angular",
+    "Python",
+    "WordPress",
+    "MongoDB",
+    "Express"
+  ],
+  "setup": [
+    "Apple",
+    "Windows",
+    "Visual Studio Code"
+  ]
+},
+  {
+    "username": "sam_kurdz",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Angular",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "NickPoorman",
+    "stack": [
+      "Go",
+      "Apache Arrow",
+      "Scala",
+      "Cassandra",
+      "DynamoDB",
+      "Dgraph",
+      "Parquet",
+      "EC2",
+      "ECS",
+      "Kinesis"
+    ]
+  },
+  {
+    "username": "agamacastro",
+    "stack": [
+      "Angular",
+      "NGINX",
+      "Symfony",
+      "MySQL"
+    ]
+  },
+  {
+    "username": "edfloreshz",
+    "stack": [
+      "C++",
+      "Rust"
+    ],
+    "setup": [
+      "Linux"
+    ]
+  },
+  {
+    "username": "andycasen",
+    "stack": [
+      "Node.js",
+      "TypeScript",
+      "React",
+      "Amazon AWS"
+    ]
+  },
+  {
+    "username": "basedusama",
+    "stack": [
+      "Python",
+      "Django",
+      "Vue.js"
+    ],
+    "setup": [
+      "Arch Linux",
+      "Vim",
+      "Brave"
+    ]
+  },
+  {
+    "username": "chrishonda0716",
+    "stack": [
+      "Angular",
+      "Java",
+      "MySQL",
+      "Amazon AWS"
+    ]
+  },
+  {
+    "username": "BotanicalCoder",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "dev_ashishkumar",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Angular",
+      "Node.js",
+      "Apache",
+      "MySQL",
+      "PHP"
+    ],
+    "setup": [
+      "Linux"
+    ]
+  },
+  {
+    "username": "andreiparfenoff",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Vue.js",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "MorrisWeylin",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "username": "nawok",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "NPM",
+      "Firebase",
+      ".NET",
+      "Microsoft SQL Server",
+      "NuGet",
+      "Next.js",
+      "Zeit",
+      "Netlify",
+      "Swift",
+      "Docker"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Firefox",
+      "Safari",
+      "Visual Studio",
+      "Visual Studio Code",
+      "Apple",
+      "Microsoft",
+      "Lenovo"
+    ]
+  }
+]
