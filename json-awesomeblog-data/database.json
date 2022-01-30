@@ -1,0 +1,367 @@
+{
+    "blogs": [
+        {
+            "author": "Paul Graham",
+            "description": "Lisp wizard and an investor. You should probably just google me.",
+            "tags": [
+                "lisp-lang",
+                "startups",
+                "startup",
+                "parenting",
+                "career",
+                "programming",
+                "work"
+            ],
+            "title": "Paul Graham",
+            "website": "http://www.paulgraham.com"
+        },
+        {
+            "author": "Jacob",
+            "description": "I became financially independent at 30 and retired at 33. I blog about how to retire extremely early. A combination of simple living, anticonsumerism, DIY ethics, self-reliance, resilience, and applied capitalism",
+            "tags": [
+                "finance",
+                "early-retirement",
+                "retirement",
+                "ways-to-stop-being-a-wagie",
+                "corporate-stuff",
+                "financial-independence",
+                "capitalism",
+                "politics",
+                "consumerism",
+                "budget"
+            ],
+            "title": "Early Retirement Extreme",
+            "website": "http://earlyretirementextreme.com"
+        },
+        {
+            "author": "Joel Spolsky",
+            "description": "This is Joel on Software, where I’ve been ranting about software development, management, business, and the Internet since 2000. In 2000 I co-founded Fog Creek Software, where we created lots of cool things like the FogBugz bug tracker, Trello, and Glitch. I also worked with Jeff Atwood to create Stack Overflow and served as CEO of Stack Overflow from 2010-2019. ",
+            "tags": [
+                "software",
+                "management",
+                "stack-overflow",
+                "startup",
+                "recruiter",
+                "frog-creek",
+                "tips",
+                "abstractions-are-leaky",
+                "new-york",
+                "sinful-software",
+                "programming",
+                "devops",
+                "system-admin",
+                "infrastructure-management"
+            ],
+            "website": "https://www.joelonsoftware.com",
+            "title": "Joel on software"
+        },
+        {
+            "author": "Linus Åkesson",
+            "description": "My name is Linus Åkesson, though some of you may know me as lft. I live in Lund, Sweden, and work as a software engineer. \nI dabble in many different areas. My blog is bilingual (swedish).",
+            "tags": [
+                "music",
+                "poetry",
+                "movies",
+                "programming",
+                "yoga-exercise",
+                "mathematics",
+                "meta-mathematics",
+                "Swedish-folk-dance",
+                "books",
+                "translation",
+                "psychology-sociology",
+                "information-security",
+                "close-up-magic",
+                "language-japanese",
+                "discordianism",
+                "electronics",
+                "type-setting",
+                "meditation",
+                "mechatronics",
+                "lucid-dreaming",
+                "cryptic-crosswords",
+                "interactive-fiction"
+            ],
+            "title": "linusakesson",
+            "website": "https://www.linusakesson.net"
+        },
+        {
+            "author": "Julia Evans",
+            "description": "I’m a software developer. I live in Montreal. I sometimes give talks. Most of my income comes from my programming zines business Wizard Zines.",
+            "tags": [
+                "computers",
+                "networking",
+                "shell-tools",
+                "kubernetes",
+                "containers",
+                "comics",
+                "exercises",
+                "writing",
+                "conferences",
+                "organizing-conferences",
+                "statistics",
+                "operation-engineering",
+                "career",
+                "work",
+                "remote-work",
+                "podcasts",
+                "rust-lang",
+                "debugging-stories",
+                "open-source",
+                "linux",
+                "recurse-center",
+                "programming"
+            ],
+            "title": "jvns",
+            "website": "https://jvns.ca"
+        },
+        {
+            "author": "Tim Urban, Andrew finn, Alicia mcelhone",
+            "description": "Tim writes about his psychological shortcomings. Andrew writes about the business side. Alicia is the manager.",
+            "tags": [
+                "career",
+                "business",
+                "psychology-sociology",
+                "jobs",
+                "dealing with people",
+                "shortcomings",
+                "weirdos"
+            ],
+            "title": "waitbutwhy",
+            "website": "https://waitbutwhy.com"
+        },
+        {
+            "author": "Sarah Perry, Kevin Simler, Joe Kelly, Carlos Bueno, Renee DiResta, and Taylor Pearson",
+            "description": "Ribbonfarm is a longform blog devoted to unusual takes on both familiar and new themes. It was founded in 2007 by Venkatesh Rao, who serves as Editor-in-Chief",
+            "tags": [
+                "refactoring-perceptions",
+                "perceptions",
+                "thinking",
+                "work-life",
+                "mental-models",
+                "fresh-thinking",
+                "politics",
+                "psychology-sociology",
+                "collective-decision-making"
+            ],
+            "title": "RibbonFarm",
+            "website": "https://www.ribbonfarm.com"
+        },
+        {
+            "author": "David Chapman",
+            "description": "Meaningness is a hypertext book (in progress), plus a “metablog” that comments on it. The book begins with an appetizer. Alternatively, you might like to look at its table of contents, or some other starting points. Classification of pages by topics supplements the book and metablog structures.",
+            "tags": [
+                "meaninglessness",
+                "meaning",
+                "life",
+                "curiosity",
+                "metablog",
+                "too-meta",
+                "hard-to-appetize",
+                "nihilism",
+                "eternalism",
+                "read-when-you-are-depressed"
+            ],
+            "title": "meaningness",
+            "website": "https://meaningness.com"
+        },
+        {
+            "author": "Gwern Branwen",
+            "description": "I write about psychology, statistics, and technology; I am best known for work on the darknet markets & Bitcoin, blinded self-experiments & Quantified Self analyses, dual n-back & spaced repetition, and modafinil.",
+            "tags": [
+                "computer-science",
+                "anime-nerd",
+                "sub-simulator-guy",
+                "gpt2",
+                "thiswaifudoesnotexist",
+                "philosophy",
+                "cryptography",
+                "statistics",
+                "AI-machine-learning",
+                "psychology-sociology",
+                "politics",
+                "drugs"
+            ],
+            "title": "gwern",
+            "website": "https://www.gwern.net"
+        },
+        {
+            "author": "Scott Aaronson",
+            "description": "A blog about wonky thinks like collapsing government, some opinions, quantum mechanics and computing.",
+            "tags": [
+                "quantum-computing",
+                "quantum",
+                "drugs",
+                "opinions",
+                "politics",
+                "quantum-mechanics"
+            ],
+            "title": "scottaaronson",
+            "website": "https://www.scottaaronson.com/blog/"
+        },
+        {
+            "author": "Idlewords",
+            "description": "Interesting essays and interviews mostly political and meta.",
+            "tags": [
+                "antarctica",
+                "argentina",
+                "blogs",
+                "meta",
+                "china",
+                "poland",
+                "travel",
+                "vermont",
+                "rant",
+                "web"
+            ],
+            "title": "Idlewords",
+            "website": "https://idlewords.com"
+        },
+        {
+            "author": "Patrick Collison",
+            "description": "I live in San Francisco and work at Stripe. I grew up in Ireland and previously studied math at MIT. I am on the boards of Stripe and the Long Now Foundation. (The long-term is underrated!)",
+            "tags": [
+                "progarmming",
+                "computer-science",
+                "advice",
+                "internet",
+                "government",
+                "stripe",
+                "meta",
+                "work",
+                "finland",
+                "sv-history",
+                "culture"
+            ],
+            "title": "Patrick Collison",
+            "website": "https://patrickcollison.com/"
+        },
+        {
+            "author": "Oona Räisänen",
+            "description": "absorptions is a blog about my hobbies. So far it's mostly about signals, electronics and programming, but may pick up a random new field at any point. It's a place for me to direct my need to talk nerdy. Why? I like the smell of unsolved mysteries. Call them obsessions or special interests; I call them absorptions.",
+            "tags": [
+                "graphics",
+                "bad-stuff",
+                "computer-art",
+                "perl",
+                "hardware",
+                "linux",
+                "infodump",
+                "signals",
+                "reversing",
+                "computer-vision",
+                "FM-subcarriers",
+                "radio"
+            ],
+            "title": "windytan",
+            "website": "http://www.windytan.com/"
+        },
+        {
+            "author": "Alexey Guzey",
+            "description": "I’m a researcher with background in Economics, Mathematics, and Cognitive Science. My biggest intellectual influences are Scott Alexander and Gwern. Right now, I think about meta-science, biology, and philanthropy. My long-term goal is to make the future humane, aesthetic, and to make it happen faster.",
+            "tags": [
+                "advice",
+                "meta-science",
+                "biology",
+                "philanthropy",
+                "opinions",
+                "research",
+                "humane-aesthetics"
+            ],
+            "title": "Alexey Guezy",
+            "website": "https://guzey.com"
+        },
+        {
+            "author": "Alex Tabarrok &  Tyler Cowen",
+            "description": "Marginal Revolution is the blog of Tyler Cowen and Alex Tabarrok, both of whom teach at George Mason University. MR began in August of 2003 and there have been new posts daily since that time. In numerous reviews and ratings over the years Marginal Revolution has consistently been ranked as the best or one of the best economic blogs on the web, but it is more (and less) than that, also representing the quirks of its authors.",
+            "tags": [
+                "books",
+                "education",
+                "history",
+                "ideas",
+                "approaches-to-make-world-better",
+                "science",
+                "current-affairs",
+                "economics",
+                "law",
+                "medicine",
+                "political-science",
+                "politics"
+            ],
+            "title": "marginalrevolution",
+            "website": "https://marginalrevolution.com"
+        },
+        {
+            "author": "Jeff Preshing",
+            "description": "This is where I write about programming-related stuff. I try to keep it technical, and tend to focus on C++ and Python, but these aren’t strict rules. You could say the main theme throughout this blog is a reverence and fascination for programming.",
+            "tags": [
+                "python",
+                "cpp-lang",
+                "gaming",
+                "game-development",
+                "game-dev",
+                "game-engine",
+                "programming"
+            ],
+            "title": "preshing",
+            "website": "https://preshing.com"
+        },
+        {
+            "author": "Eli Bendersky",
+            "description": "This blog began in 2003 as a personal online journal; in the past few years it became mostly an outlet for technical, programming-related posts. It's my way to document things I find interesting for my future self.",
+            "tags": [
+                "go-lang",
+                "webdev",
+                "networking",
+                "games",
+                "programming",
+                "python",
+                "cpp-lang"
+            ],
+            "title": "Eli Bendersky's website",
+            "website": "https://eli.thegreenplace.net"
+        },
+        {
+            "author": "Glenn Engstrand",
+            "description": "Whenever I evaluate a technology stack for microservice architecture viability, I implement the same feature identical polyglot persistent microservice then run it through the same load test as all the others. In that way, I can compare and contrast these various technology stacks. I blog about the results here.",
+            "tags": [
+                "architecture",
+                "big-data",
+                "cloud-computing",
+                "graphql",
+                "stack",
+                "programming",
+                "python",
+                "cpp-lang"
+            ],
+            "title": "Glenn Engstrand",
+            "website": "http://glennengstrand.info/blog/"
+        },
+        {
+            "author": "Stavros Korokithakis",
+            "description": "I figure some people might be interested in the projects I make from time to time, or the solution to problems I have, so I publish them.",
+            "tags": [
+                "hardware",
+                "programming",
+                "python",
+                "maker",
+                "arduino"
+            ],
+            "title": "Stavros' Stuff",
+            "website": "https://www.stavros.io/"
+        },
+        {
+            "author": "Dave Glassanos",
+            "description": "Non-technical advice to navigate your programming career.",
+            "tags": [
+                "Career Advice",
+                "programming",
+                "nodejs",
+                "deno",
+                "php"
+            ],
+            "title": "Exponential Backoff",
+            "website": "https://www.exponentialbackoff.com/"
+        }
+    ]
+}
