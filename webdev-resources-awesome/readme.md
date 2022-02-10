@@ -7,7 +7,7 @@
 
 ![](https://badgen.net/github/last-commit/mrmartineau/awesome-web-dev-resources)
   
-  [Repo](https://github.com/mrmartineau/awesome-web-dev-resources)
+  ## [GitHub Repo](https://github.com/mrmartineau/awesome-web-dev-resources)
 
 </div>
 
