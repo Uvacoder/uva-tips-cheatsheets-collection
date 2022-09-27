@@ -1,0 +1,1053 @@
+{
+    "name": "Awesome Free Stuff",
+    "type": "collection",
+    "data": [{
+        "name": "Free Stock Photos",
+        "type": "collection",
+        "data": [{
+            "name": "Multisite Search",
+            "type": "collection",
+            "data": [{
+                "name": "FreePhotos.cc",
+                "type": "link",
+                "link": "https://freephotos.cc/"
+            }, {
+                "name": "EveryPixel",
+                "type": "link",
+                "link": "https://everypixel.com/free"
+            }, {
+                "name": "Photostack",
+                "type": "link",
+                "link": "https://photostack.co/"
+            }, {
+                "name": "Mediachain Attribution Engine",
+                "type": "link",
+                "link": "http://images.mediachain.io/"
+            }, {
+                "name": "Visual Hunt",
+                "type": "link",
+                "link": "http://visualhunt.com/"
+            }, {
+                "name": "Finda.Photo",
+                "type": "link",
+                "link": "http://finda.photo/"
+            }, {
+                "name": "Pexels",
+                "type": "link",
+                "link": "http://www.pexels.com/"
+            }, {
+                "name": "LibreStock",
+                "type": "link",
+                "link": "http://librestock.com/"
+            }, {
+                "name": "Stock Up",
+                "type": "link",
+                "link": "http://www.sitebuilderreport.com/stock-photo-search"
+            }, {
+                "name": "Creative Commons",
+                "type": "link",
+                "link": "https://ccsearch.creativecommons.org/"
+            }]
+        }, {
+            "name": "Free Patterns",
+            "type": "collection",
+            "data": [{
+                "name": "ThePatternLibrary",
+                "type": "link",
+                "link": "http://thepatternlibrary.com/"
+            }, {
+                "name": "Hero Patterns",
+                "type": "link",
+                "link": "http://www.heropatterns.com/"
+            }]
+        }, {
+            "name": "Food Pics",
+            "type": "collection",
+            "data": [{
+                "name": "Scatter Jar",
+                "type": "link",
+                "link": "http://scatterjar.com/"
+            }, {
+                "name": "Foodie Factor",
+                "type": "link",
+                "link": "http://foodiefactor.com/"
+            }, {
+                "name": "FoodShot",
+                "type": "link",
+                "link": "http://foodshot.co/"
+            }, {
+                "name": "FoodiesFeed",
+                "type": "link",
+                "link": "http://foodiesfeed.com/download/"
+            }]
+        }, {
+            "name": "Email List",
+            "type": "collection",
+            "data": [{
+                "name": "DeathToStockPhoto",
+                "type": "link",
+                "link": "http://join.deathtothestockphoto.com/"
+            }, {
+                "name": "Little Visuals",
+                "type": "link",
+                "link": "http://littlevisuals.co/"
+            }, {
+                "name": "Travel Coffee Book",
+                "type": "link",
+                "link": "http://travelcoffeebook.com/"
+            }]
+        }, {
+            "name": "Placeholder",
+            "type": "collection",
+            "data": [{
+                "name": "Placeholder Pics",
+                "type": "link",
+                "link": "http://placeholder.pics/"
+            }, {
+                "name": "Unsplash It",
+                "type": "link",
+                "link": "https://unsplash.it/"
+            }, {
+                "name": "LoremPixel",
+                "type": "link",
+                "link": "http://lorempixel.com/"
+            }, {
+                "name": "PlaceIMG",
+                "type": "link",
+                "link": "https://placeimg.com/"
+            }, {
+                "name": "PlaceKitten",
+                "type": "link",
+                "link": "https://placekitten.com/"
+            }, {
+                "name": "Placemat",
+                "type": "link",
+                "link": "https://placem.at/"
+            }]
+        }, {
+            "name": "nappy.co",
+            "type": "link",
+            "link": "https://www.nappy.co/"
+        }, {
+            "name": "Slon.pics",
+            "type": "link",
+            "link": "http://www.slon.pics/shop/"
+        }, {
+            "name": "Focus Fitness",
+            "type": "link",
+            "link": "https://www.focusfitness.net/stock-photos/"
+        }, {
+            "name": "Burst",
+            "type": "link",
+            "link": "https://burst.shopify.com/"
+        }, {
+            "name": "Moni's Photo",
+            "type": "link",
+            "link": "http://monisphoto.com/"
+        }, {
+            "name": "Pic Melon",
+            "type": "link",
+            "link": "http://picmelon.com/"
+        }, {
+            "name": "MET Museum Artwork",
+            "type": "link",
+            "link": "http://www.metmuseum.org/art/collection/search#!/search?perPage=20&showOnly=openaccess&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0"
+        }, {
+            "name": "Samuel Zeller",
+            "type": "link",
+            "link": "http://archive.samuelzeller.ch/"
+        }, {
+            "name": "Iwaria",
+            "type": "link",
+            "link": "https://iwaria.com/"
+        }, {
+            "name": "Glyphs",
+            "type": "link",
+            "link": "https://glyphs.co/photos"
+        }, {
+            "name": "Nomad Pictures",
+            "type": "link",
+            "link": "http://nomad.pictures/"
+        }, {
+            "name": "Vladimir's Collection",
+            "type": "link",
+            "link": "https://photos.google.com/share/AF1QipMqTdSXxVJsc8pVpPlwktz8XFNATPiIWX8VHYuOA_MSKfxa3J_Or5YMtOIG-4B_Bg?key=dXRMUWpDeE9zT01yRWxzY2ZEMzlSRE95UF81YWRn"
+        }, {
+            "name": "My Stock Photos",
+            "type": "link",
+            "link": "http://mystock.photos/"
+        }, {
+            "name": "XXL Stock Photo",
+            "type": "link",
+            "link": "http://xxlstockphoto.com/downloads/category/freebies/"
+        }, {
+            "name": "The Pic Pac",
+            "type": "link",
+            "link": "https://thepicpac.com/"
+        }, {
+            "name": "The British Library",
+            "type": "link",
+            "link": "https://www.flickr.com/photos/britishlibrary/"
+        }, {
+            "name": "The Library of Congress",
+            "type": "link",
+            "link": "https://www.flickr.com/photos/library_of_congress/albums"
+        }, {
+            "name": "Unsplash",
+            "type": "link",
+            "link": "https://unsplash.com/grid"
+        }, {
+            "name": "Shutteroo",
+            "type": "link",
+            "link": "http://shutteroo.com/"
+        }, {
+            "name": "Realistic Shots",
+            "type": "link",
+            "link": "http://realisticshots.com/"
+        }, {
+            "name": "Skuawk",
+            "type": "link",
+            "link": "http://skuawk.com/"
+        }, {
+            "name": "Minimography",
+            "type": "link",
+            "link": "http://minimography.com/"
+        }, {
+            "name": "StokPic",
+            "type": "link",
+            "link": "http://stokpic.com/"
+        }, {
+            "name": "NegativeSpace",
+            "type": "link",
+            "link": "http://negativespace.co/"
+        }, {
+            "name": "LibreShot",
+            "type": "link",
+            "link": "http://libreshot.com/"
+        }, {
+            "name": "LargePhotos",
+            "type": "link",
+            "link": "http://www.largephotos.net/"
+        }, {
+            "name": "StockSnap",
+            "type": "link",
+            "link": "https://stocksnap.io/"
+        }, {
+            "name": "tookapic",
+            "type": "link",
+            "link": "http://stock.tookapic.com/?filter=free"
+        }, {
+            "name": "FancyCrave",
+            "type": "link",
+            "link": "http://fancycrave.com/"
+        }, {
+            "name": "Nobl Web",
+            "type": "link",
+            "link": "http://www.noblweb.com/"
+        }, {
+            "name": "PhotoStockEditor",
+            "type": "link",
+            "link": "http://photostockeditor.com/"
+        }, {
+            "name": "Boss Fight",
+            "type": "link",
+            "link": "http://bossfight.co/"
+        }, {
+            "name": "FreelyPhotos",
+            "type": "link",
+            "link": "http://freelyphotos.com/"
+        }, {
+            "name": "BarnImages",
+            "type": "link",
+            "link": "http://barnimages.com/"
+        }, {
+            "name": "RealisticShots",
+            "type": "link",
+            "link": "http://realisticshots.com/"
+        }, {
+            "name": "Cupcake",
+            "type": "link",
+            "link": "http://cupcake.nilssonlee.se/"
+        }, {
+            "name": "reSplashed",
+            "type": "link",
+            "link": "http://www.resplashed.com/"
+        }, {
+            "name": "Splashbase",
+            "type": "link",
+            "link": "http://www.splashbase.co/"
+        }, {
+            "name": "Free Nature Stock",
+            "type": "link",
+            "link": "http://freenaturestock.com/"
+        }, {
+            "name": "GoodFreePhotos",
+            "type": "link",
+            "link": "http://goodfreephotos.com/"
+        }, {
+            "name": "ISO Republic",
+            "type": "link",
+            "link": "http://isorepublic.com/"
+        }, {
+            "name": "DesignersPics",
+            "type": "link",
+            "link": "http://www.designerspics.com/"
+        }, {
+            "name": "Magdeleine",
+            "type": "link",
+            "link": "http://magdeleine.co/license/cc0/"
+        }, {
+            "name": "Pond5",
+            "type": "link",
+            "link": "http://www.pond5.com/photos/1/*.html?free=1"
+        }, {
+            "name": "MMT",
+            "type": "link",
+            "link": "http://mmtstock.com/"
+        }, {
+            "name": "Camarama",
+            "type": "link",
+            "link": "http://www.camarama.de/"
+        }, {
+            "name": "FuriousCamera",
+            "type": "link",
+            "link": "http://furiouscamera.com/"
+        }, {
+            "name": "ABSFreePic",
+            "type": "link",
+            "link": "http://absfreepic.com/"
+        }, {
+            "name": "Trunklog",
+            "type": "link",
+            "link": "http://trunklog.com/"
+        }, {
+            "name": "Jeeshoots",
+            "type": "link",
+            "link": "http://jeshoots.com/"
+        }, {
+            "name": "Picography",
+            "type": "link",
+            "link": "http://picography.co/"
+        }, {
+            "name": "Gratisography",
+            "type": "link",
+            "link": "http://www.gratisography.com/"
+        }, {
+            "name": "Bara-Art",
+            "type": "link",
+            "link": "http://www.bara-art.com/"
+        }, {
+            "name": "1MillionFreePictures",
+            "type": "link",
+            "link": "http://www.1millionfreepictures.com/"
+        }, {
+            "name": "KaboomPics",
+            "type": "link",
+            "link": "http://kaboompics.com/"
+        }, {
+            "name": "SplitShire",
+            "type": "link",
+            "link": "http://splitshire.com/"
+        }, {
+            "name": "Life Of Pix",
+            "type": "link",
+            "link": "http://www.lifeofpix.com/"
+        }, {
+            "name": "Startup Stock Photos",
+            "type": "link",
+            "link": "http://startupstockphotos.com/"
+        }, {
+            "name": "Stock Image Point",
+            "type": "link",
+            "link": "http://www.stock-image-point.com/"
+        }, {
+            "name": "StockPhotosForFree",
+            "type": "link",
+            "link": "http://www.stockphotosforfree.com/"
+        }, {
+            "name": "morgueFile",
+            "type": "link",
+            "link": "http://morguefile.com/"
+        }, {
+            "name": "SkitterPhoto",
+            "type": "link",
+            "link": "http://skitterphoto.com/"
+        }, {
+            "name": "Good Stock Photos",
+            "type": "link",
+            "link": "http://goodstock.photos/"
+        }, {
+            "name": "Jay Mantri",
+            "type": "link",
+            "link": "http://jaymantri.com/"
+        }, {
+            "name": "New Old Stock",
+            "type": "link",
+            "link": "http://nos.twnsnd.co/"
+        }, {
+            "name": "Snapwire Snaps",
+            "type": "link",
+            "link": "http://snapwiresnaps.tumblr.com/"
+        }, {
+            "name": "FreeRangeStock",
+            "type": "link",
+            "link": "http://freerangestock.com/"
+        }, {
+            "name": "PixaBay",
+            "type": "link",
+            "link": "http://pixabay.com/"
+        }, {
+            "name": "Moveast",
+            "type": "link",
+            "link": "http://moveast.me/"
+        }, {
+            "name": "Pic Jumbo",
+            "type": "link",
+            "link": "http://picjumbo.com/"
+        }]
+    }, {
+        "name": "Free Mockups",
+        "type": "collection",
+        "data": [{
+            "name": "MockupsJar",
+            "type": "link",
+            "link": "https://mockupsjar.com/"
+        }, {
+            "name": "Smartmockups",
+            "type": "link",
+            "link": "http://smartmockups.com/"
+        }, {
+            "name": "Mockerie",
+            "type": "link",
+            "link": "http://mockerie.io/?r=FZ"
+        }, {
+            "name": "Mockup World",
+            "type": "link",
+            "link": "http://www.mockupworld.co/"
+        }, {
+            "name": "PlaceIt",
+            "type": "link",
+            "link": "https://placeit.net/"
+        }, {
+            "name": "LaunchKit Screenshots",
+            "type": "link",
+            "link": "https://launchkit.io/screenshots"
+        }, {
+            "name": "Magic Mockups",
+            "type": "link",
+            "link": "http://magicmockups.com/"
+        }, {
+            "name": "Dunnnk",
+            "type": "link",
+            "link": "http://dunnnk.com/"
+        }, {
+            "name": "Frame Product Shots",
+            "type": "link",
+            "link": "http://frame.lab25.co.uk/"
+        }, {
+            "name": "immagiPic",
+            "type": "link",
+            "link": "http://www.immagipic.com/"
+        }]
+    }, {
+        "name": "Free Stock Videos",
+        "type": "collection",
+        "data": [{
+            "name": "CuteStockFootage",
+            "type": "link",
+            "link": "https://www.cutestockfootage.com/"
+        }, {
+            "name": "Vidlery",
+            "type": "link",
+            "link": "http://vidlery.com/"
+        }, {
+            "name": "Little Cloud Cinema",
+            "type": "link",
+            "link": "http://www.littlecloudcinema.com/footage.html"
+        }, {
+            "name": "Mitch Martinez",
+            "type": "link",
+            "link": "http://mitchmartinez.com/free-4k-red-epic-stock-footage/"
+        }, {
+            "name": "Coverr",
+            "type": "link",
+            "link": "http://www.coverr.co/"
+        }, {
+            "name": "Pexels Video",
+            "type": "link",
+            "link": "https://videos.pexels.com/"
+        }, {
+            "name": "Videvo",
+            "type": "link",
+            "link": "http://www.videvo.net/"
+        }, {
+            "name": "Life Of Vids",
+            "type": "link",
+            "link": "http://www.lifeofvids.com/"
+        }, {
+            "name": "Pond5",
+            "type": "link",
+            "link": "http://www.pond5.com/stock-video-footage/1/*.html?free=1"
+        }, {
+            "name": "Videezy",
+            "type": "link",
+            "link": "http://www.videezy.com/browse"
+        }, {
+            "name": "Stock Footage For Free",
+            "type": "link",
+            "link": "http://www.stockfootageforfree.com/"
+        }, {
+            "name": "XStockvideo",
+            "type": "link",
+            "link": "http://www.xstockvideo.com/"
+        }, {
+            "name": "Beachfront B-Roll",
+            "type": "link",
+            "link": "http://www.beachfrontbroll.com/"
+        }, {
+            "name": "Vidsplay",
+            "type": "link",
+            "link": "http://www.vidsplay.com/"
+        }, {
+            "name": "Clipcanvas",
+            "type": "link",
+            "link": "http://www.clipcanvas.com/free-footage/"
+        }, {
+            "name": "MotionElements",
+            "type": "link",
+            "link": "http://www.motionelements.com/free/stock-footage/"
+        }, {
+            "name": "Distill",
+            "type": "link",
+            "link": "http://www.wedistill.io/"
+        }, {
+            "name": "Mazwai",
+            "type": "link",
+            "link": "http://mazwai.com/"
+        }]
+    }, {
+        "name": "Free Sound Effects",
+        "type": "collection",
+        "data": [{
+            "name": "Retro Arcade Sounds Pack",
+            "type": "link",
+            "link": "http://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/"
+        }, {
+            "name": "Purple Planet",
+            "type": "link",
+            "link": "http://www.purple-planet.com/"
+        }, {
+            "name": "wavy.audio",
+            "type": "link",
+            "link": "http://wavy.audio/"
+        }, {
+            "name": "JukeDeck",
+            "type": "link",
+            "link": "https://www.jukedeck.com/"
+        }, {
+            "name": "MusicForMakers",
+            "type": "link",
+            "link": "http://musicformakers.com/"
+        }, {
+            "name": "WhatFunk",
+            "type": "link",
+            "link": "http://www.whatfunk.com/"
+        }, {
+            "name": "NoCopyrightSounds",
+            "type": "link",
+            "link": "https://www.youtube.com/user/NoCopyrightSounds"
+        }, {
+            "name": "Converse Sample Library",
+            "type": "link",
+            "link": "https://www.conversesamplelibrary.com/"
+        }, {
+            "name": "Octave",
+            "type": "link",
+            "link": "http://raisedbeaches.com/octave/"
+        }, {
+            "name": "FirearmSFX",
+            "type": "link",
+            "link": "http://freefirearmsfx.com/"
+        }, {
+            "name": "Free Music Archive",
+            "type": "link",
+            "link": "http://freemusicarchive.org/"
+        }, {
+            "name": "FreeSound",
+            "type": "link",
+            "link": "https://www.freesound.org/"
+        }, {
+            "name": "Pond5",
+            "type": "link",
+            "link": "http://www.pond5.com/music/1/*.html?free=1"
+        }, {
+            "name": "Adobe Audition SFX",
+            "type": "link",
+            "link": "http://offers.adobe.com/en/na/audition/offers/audition_dlc.html"
+        }, {
+            "name": "SoundBible",
+            "type": "link",
+            "link": "http://soundbible.com/"
+        }, {
+            "name": "Dev Tones",
+            "type": "link",
+            "link": "http://rcptones.com/dev_tones/"
+        }, {
+            "name": "Bfxr",
+            "type": "link",
+            "link": "http://www.bfxr.net/"
+        }]
+    }, {
+        "name": "Color Inspiration",
+        "type": "collection",
+        "data": [{
+            "name": "Coolhue",
+            "type": "link",
+            "link": "https://webkul.github.io/coolhue/"
+        }, {
+            "name": "Colorhunt",
+            "type": "link",
+            "link": "http://colorhunt.co/"
+        }, {
+            "name": "Colormind",
+            "type": "link",
+            "link": "http://colormind.io/"
+        }, {
+            "name": "Open Color",
+            "type": "link",
+            "link": "https://yeun.github.io/open-color/"
+        }, {
+            "name": "Color Claim",
+            "type": "link",
+            "link": "http://www.vanschneider.com/colors/"
+        }, {
+            "name": "Hello Color",
+            "type": "link",
+            "link": "http://jxnblk.com/hello-color/"
+        }, {
+            "name": "Web Colour Data",
+            "type": "link",
+            "link": "http://webcolourdata.com/"
+        }, {
+            "name": "Color Thief",
+            "type": "link",
+            "link": "http://lokeshdhakar.com/projects/color-thief/"
+        }, {
+            "name": "Palettable.io",
+            "type": "link",
+            "link": "http://www.palettable.io/"
+        }, {
+            "name": "Color Drop",
+            "type": "link",
+            "link": "https://colordrop.io/"
+        }, {
+            "name": "Color Lisa",
+            "type": "link",
+            "link": "http://www.colorlisa.com/"
+        }, {
+            "name": "Love Your Palette",
+            "type": "link",
+            "link": "http://loveyourpalette.com/"
+        }, {
+            "name": "LOL Colors",
+            "type": "link",
+            "link": "http://www.lolcolors.com/"
+        }, {
+            "name": "ColorFavs",
+            "type": "link",
+            "link": "http://www.colorfavs.com/"
+        }, {
+            "name": "PLTTS",
+            "type": "link",
+            "link": "http://pltts.me/"
+        }, {
+            "name": "uiGradients",
+            "type": "link",
+            "link": "http://uigradients.com/"
+        }, {
+            "name": "Swiss Style Color Picker",
+            "type": "link",
+            "link": "http://swisscolors.net/"
+        }, {
+            "name": "Blend",
+            "type": "link",
+            "link": "http://colinkeany.com/blend/"
+        }, {
+            "name": "Guideline Colour",
+            "type": "link",
+            "link": "http://guidelinecolour.com/"
+        }, {
+            "name": "Material UI Colors",
+            "type": "link",
+            "link": "http://materialuicolors.co/"
+        }, {
+            "name": "Color.Hailpixel",
+            "type": "link",
+            "link": "http://color.hailpixel.com/"
+        }, {
+            "name": "Colourcode",
+            "type": "link",
+            "link": "http://colourco.de/"
+        }, {
+            "name": "Palettr",
+            "type": "link",
+            "link": "http://palettr.com/"
+        }, {
+            "name": "Colour Combo Tester",
+            "type": "link",
+            "link": "http://www.colorcombos.com/combotester.html"
+        }, {
+            "name": "Pictaculous",
+            "type": "link",
+            "link": "http://www.pictaculous.com/"
+        }, {
+            "name": "Cohesive Colors",
+            "type": "link",
+            "link": "http://javierbyte.github.io/cohesive-colors/"
+        }, {
+            "name": "Bootflat Flat Color",
+            "type": "link",
+            "link": "http://bootflat.github.io/color-picker.html"
+        }, {
+            "name": "Coolors",
+            "type": "link",
+            "link": "https://coolors.co/app"
+        }, {
+            "name": "Colorful Gradients",
+            "type": "link",
+            "link": "http://colorfulgradients.tumblr.com/"
+        }, {
+            "name": "0to255",
+            "type": "link",
+            "link": "http://www.0to255.com/"
+        }, {
+            "name": "Colllor",
+            "type": "link",
+            "link": "http://colllor.com/"
+        }, {
+            "name": "Coleure",
+            "type": "link",
+            "link": "https://www.coleure.com/"
+        }, {
+            "name": "Get UI Colors",
+            "type": "link",
+            "link": "http://getuicolors.com/"
+        }, {
+            "name": "Colorrrs",
+            "type": "link",
+            "link": "http://colorrrs.com/"
+        }, {
+            "name": "Adobe Color",
+            "type": "link",
+            "link": "https://color.adobe.com/create/color-wheel/"
+        }, {
+            "name": "Flat UI Colors",
+            "type": "link",
+            "link": "http://flatuicolors.com/"
+        }, {
+            "name": "Flat UI Color Picker",
+            "type": "link",
+            "link": "http://www.flatuicolorpicker.com/all"
+        }, {
+            "name": "Pokemon Palette",
+            "type": "link",
+            "link": "http://pokepalettes.com/"
+        }, {
+            "name": "Material Palette",
+            "type": "link",
+            "link": "http://www.materialpalette.com/"
+        }, {
+            "name": "Material UI",
+            "type": "link",
+            "link": "http://www.materialui.co/colors"
+        }, {
+            "name": "Colour Lovers",
+            "type": "link",
+            "link": "http://www.colourlovers.com/palettes"
+        }, {
+            "name": "Brand Colors",
+            "type": "link",
+            "link": "http://brandcolors.net/"
+        }, {
+            "name": "Social Colors",
+            "type": "link",
+            "link": "http://www.materialui.co/socialcolors"
+        }, {
+            "name": "Color-hex",
+            "type": "link",
+            "link": "http://www.color-hex.com/"
+        }, {
+            "name": "iOS 7 Colors",
+            "type": "link",
+            "link": "http://ios7colors.com/"
+        }, {
+            "name": "Paletton",
+            "type": "link",
+            "link": "http://paletton.com/"
+        }]
+    }, {
+        "name": "Free Website Templates",
+        "type": "collection",
+        "data": [{
+            "name": "Mashup Template",
+            "type": "link",
+            "link": "http://mashup-template.com/templates.html"
+        }, {
+            "name": "Free HTML5",
+            "type": "link",
+            "link": "https://freehtml5.co/"
+        }, {
+            "name": "HTML5 UP",
+            "type": "link",
+            "link": "http://html5up.net/"
+        }, {
+            "name": "Templated",
+            "type": "link",
+            "link": "http://templated.co/"
+        }, {
+            "name": "TemplateStash",
+            "type": "link",
+            "link": "http://www.templatestash.com/"
+        }, {
+            "name": "Start Bootstrap",
+            "type": "link",
+            "link": "http://startbootstrap.com/"
+        }]
+    }, {
+        "name": "Free Fonts",
+        "type": "collection",
+        "data": [{
+            "name": "Font Tools",
+            "type": "collection",
+            "data": [{
+                "name": "Font Joy",
+                "type": "link",
+                "link": "http://fontjoy.com/"
+            }, {
+                "name": "Type Anything",
+                "type": "link",
+                "link": "https://typeanything.io/"
+            }, {
+                "name": "Wordmark.it",
+                "type": "link",
+                "link": "http://www.wordmark.it/"
+            }, {
+                "name": "Font Fling",
+                "type": "link",
+                "link": "http://fontfling.com/"
+            }, {
+                "name": "MyScriptFont",
+                "type": "link",
+                "link": "http://www.myscriptfont.com/"
+            }, {
+                "name": "Font Combinator",
+                "type": "link",
+                "link": "http://font-combinator.com/"
+            }, {
+                "name": "Fount",
+                "type": "link",
+                "link": "http://fount.artequalswork.com/"
+            }, {
+                "name": "Glyphr Studio",
+                "type": "link",
+                "link": "http://www.glyphrstudio.com/online/"
+            }]
+        }, {
+            "name": "Google Fonts",
+            "type": "link",
+            "link": "https://fonts.google.com/"
+        }, {
+            "name": "DaFont",
+            "type": "link",
+            "link": "http://www.dafont.com/"
+        }, {
+            "name": "FFonts",
+            "type": "link",
+            "link": "http://www.ffonts.net/"
+        }, {
+            "name": "Font Squirrel",
+            "type": "link",
+            "link": "http://www.fontsquirrel.com/"
+        }, {
+            "name": "Lost Type",
+            "type": "link",
+            "link": "http://losttype.com/browse/"
+        }, {
+            "name": "The League of Moveable Type",
+            "type": "link",
+            "link": "https://www.theleagueofmoveabletype.com/"
+        }, {
+            "name": "Fontshop",
+            "type": "link",
+            "link": "https://www.fontshop.com/people/fontshop-team/fontlists/free-fonts"
+        }]
+    }, {
+        "name": "Free Icons",
+        "type": "collection",
+        "data": [{
+            "name": "Project Clarity Icons",
+            "type": "link",
+            "link": "https://vmware.github.io/clarity/icons/icon-sets"
+        }, {
+            "name": "Feather",
+            "type": "link",
+            "link": "https://feather.netlify.com/"
+        }, {
+            "name": "Material Design Icons",
+            "type": "link",
+            "link": "https://materialdesignicons.com/"
+        }, {
+            "name": "Font Awesome",
+            "type": "link",
+            "link": "http://fortawesome.github.io/Font-Awesome/"
+        }, {
+            "name": "The Noun Project",
+            "type": "link",
+            "link": "http://thenounproject.com/"
+        }, {
+            "name": "IcoFont",
+            "type": "link",
+            "link": "http://icofont.com/"
+        }, {
+            "name": "Zond Icons",
+            "type": "link",
+            "link": "http://www.zondicons.com/"
+        }, {
+            "name": "CSS Icons",
+            "type": "link",
+            "link": "http://cssicon.space/"
+        }, {
+            "name": "Bytesize Icons",
+            "type": "link",
+            "link": "https://github.com/danklammer/bytesize-icons"
+        }, {
+            "name": "Free Nova Icons",
+            "type": "link",
+            "link": "http://www.webalys.com/nova/free-icons.html"
+        }, {
+            "name": "Free Icon Shop",
+            "type": "link",
+            "link": "https://freeiconshop.com/icon/tag/free/"
+        }, {
+            "name": "Simple Icons",
+            "type": "link",
+            "link": "https://simpleicons.org/"
+        }, {
+            "name": "Octicons",
+            "type": "link",
+            "link": "https://octicons.github.com/"
+        }, {
+            "name": "We Love Icon Font",
+            "type": "link",
+            "link": "http://weloveiconfonts.com/"
+        }, {
+            "name": "IconStore",
+            "type": "link",
+            "link": "http://iconstore.co/"
+        }, {
+            "name": "PaymentFont",
+            "type": "link",
+            "link": "http://paymentfont.io/"
+        }, {
+            "name": "Material icons",
+            "type": "link",
+            "link": "https://www.google.com/design/icons/"
+        }, {
+            "name": "Aiconica",
+            "type": "link",
+            "link": "http://aiconica.net/"
+        }, {
+            "name": "SmartIcons",
+            "type": "link",
+            "link": "https://smarticons.co/"
+        }, {
+            "name": "FlatIcon",
+            "type": "link",
+            "link": "http://www.flaticon.com/"
+        }, {
+            "name": "IconMonstr",
+            "type": "link",
+            "link": "http://iconmonstr.com/"
+        }, {
+            "name": "IcoMoon",
+            "type": "link",
+            "link": "https://icomoon.io/"
+        }, {
+            "name": "Icons8",
+            "type": "link",
+            "link": "http://icons8.com/"
+        }, {
+            "name": "to[icon]",
+            "type": "link",
+            "link": "http://www.toicon.com/"
+        }, {
+            "name": "Icony",
+            "type": "link",
+            "link": "http://icony.co/index.html"
+        }, {
+            "name": "Skycons",
+            "type": "link",
+            "link": "http://darkskyapp.github.io/skycons/"
+        }, {
+            "name": "GraphBerry",
+            "type": "link",
+            "link": "http://www.graphberry.com/category/icons"
+        }, {
+            "name": "IonIcons",
+            "type": "link",
+            "link": "http://ionicons.com/"
+        }, {
+            "name": "Modern UI Icons",
+            "type": "link",
+            "link": "http://modernuiicons.com/"
+        }, {
+            "name": "Icono",
+            "type": "link",
+            "link": "http://saeedalipoor.github.io/icono/"
+        }, {
+            "name": "EvilIcons",
+            "type": "link",
+            "link": "http://evil-icons.io/"
+        }]
+    }, {
+        "name": "Free Email Templates New",
+        "type": "collection",
+        "data": [{
+            "name": "email Monster",
+            "type": "link",
+            "link": "https://emailmonster.io/"
+        }, {
+            "name": "Mailto",
+            "type": "link",
+            "link": "http://www.getmailto.com/"
+        }, {
+            "name": "Litmus Templates",
+            "type": "link",
+            "link": "https://litmus.com/community/templates"
+        }, {
+            "name": "EmailOctopus Templates",
+            "type": "link",
+            "link": "https://templates.emailoctopus.com/"
+        }, {
+            "name": "Salted",
+            "type": "link",
+            "link": "https://github.com/rodriguezcommaj/salted"
+        }, {
+            "name": "Simple Email Templates",
+            "type": "link",
+            "link": "https://github.com/leemunroe/responsive-html-email-template"
+        }, {
+            "name": "MJML",
+            "type": "link",
+            "link": "https://mjml.io/"
+        }, {
+            "name": "Zurb Email",
+            "type": "link",
+            "link": "http://zurb.com/playground/responsive-email-templates"
+        }, {
+            "name": "Cerberus",
+            "type": "link",
+            "link": "http://tedgoas.github.io/Cerberus/"
+        }]
+    }]
+}

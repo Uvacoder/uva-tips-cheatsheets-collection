@@ -1,0 +1,15 @@
+{
+    "name": "awesome-free-stuff",
+    "version": "1.0.0",
+    "description": "List of free stuff",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Navjot Ahuja",
+        "email": "navjotahuja92@gmail.com",
+        "url": "navnote.com"
+    },
+    "license": "ISC"
+}
